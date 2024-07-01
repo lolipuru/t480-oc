@@ -27,6 +27,8 @@
 ## ⚠️ Disclaimer
 This guide is only for the Lenovo ThinkPad T480. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
 
+### This EFI is tune for personal use. I am NOT TAKING ANY RESPONSIBLE for anything harm to your device. and this branch is EXPERIMENTAL for macos sequoia, not for daily driver.
+
 > The ACPI patches and the style of this README are from [EETagent](https://github.com/EETagent/T480-OpenCore-Hackintosh).
 
 > [!IMPORTANT]
