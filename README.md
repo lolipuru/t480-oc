@@ -302,10 +302,9 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 <summary><strong>✅ What's working</strong></summary>
 </br>
  
-- [X] Intel WiFi & Bluetooth (thanks to [itlwn](https://github.com/OpenIntelWireless/itlwm))
+- [x] Intel WiFi (itlwm + heliport for now)
 - [X] Brightness / Volume Control
 - [X] Battery Information
-- [X] Audio (Audio Jack & Speaker)
 - [X] USB Ports & Built-in Camera
 - [X] Graphics Acceleration
 - [X] Trackpoint / Touchpad
@@ -313,8 +312,6 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 - [X] FaceTime / iMessage (iServices)
 - [X] HDMI
 - [X] Automatic OS updates
-- [X] Handoff / Universal Clipboard
-- [X] Sidecar (Cable) / AirPlay to Mac
 - [X] SIP / FireVault 2
 - [X] USB-C
 
@@ -325,6 +322,8 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 </br>
 
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
+- [ ] Bluetooth
+- [ ] Audio (Audio Jack & Speaker)
 - [ ] AirDrop & Continuity (only devices with Intel WiFi)
 - [ ] Fingerprint Reader (Disabled with NoTouchID kext)
 - [ ] Thunderbolt 3
@@ -339,7 +338,8 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 </br>
 
 - [ ] WWAN
-
+- [ ] Handoff / Universal Clipboard
+- [ ] Sidecar (Cable) / AirPlay to Mac
 </details>
 
 &nbsp;
