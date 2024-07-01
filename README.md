@@ -303,6 +303,7 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 </br>
  
 - [x] Intel WiFi (itlwm + heliport for now)
+- [x] Audio (Audio Jack & Speaker)
 - [X] Brightness / Volume Control
 - [X] Battery Information
 - [X] USB Ports & Built-in Camera
@@ -323,7 +324,6 @@ After creating the install media, copy your EFI folder to the EFI partition of y
 
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
 - [ ] Bluetooth
-- [ ] Audio (Audio Jack & Speaker)
 - [ ] AirDrop & Continuity (only devices with Intel WiFi)
 - [ ] Fingerprint Reader (Disabled with NoTouchID kext)
 - [ ] Thunderbolt 3
